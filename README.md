@@ -1,4 +1,4 @@
-# 🌐 Dự án Website Bio - Made Bu Karos
+# 🌐 Dự án Website Bio - Made By Karos
 
 Chào mừng bạn đến với dự án website chính thức được phát triển bởi **Karos**. Đây là bộ file code HTML/CSS/JS đã được code ra do **Karos** và có giao diện tuyệt vời. 
 
@@ -11,7 +11,7 @@ Toàn bộ code này thuộc bản quyền của **Karos**.
 
 ---
 
-## 🛠 Hướng dẫn Chạy Code (Localhost)
+## 💻 Hướng dẫn Chạy Code (Localhost)
 
 Để xem website hoạt động trên máy tính, bạn nên sử dụng **Visual Studio Code** để có trải nghiệm tốt nhất:
 
